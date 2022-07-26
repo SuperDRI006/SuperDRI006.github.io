@@ -4,7 +4,7 @@ date: 2022-07-26 13:34:00 +0800
 categories: [翻译]
 tags: []
 pin: true
-author: 湾区书记汤姆
+author: SuperDRI006
 
 toc: true
 comments: true
@@ -18,10 +18,10 @@ image:
 
 ---
 
-# 感谢关注～ 
+# 五件你今天需要知道的事
 
 
-这里可以放代码片段噢～
+
 ```c++
 //代码片段
 int main(){
