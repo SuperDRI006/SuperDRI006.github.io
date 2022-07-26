@@ -8,12 +8,12 @@ author: SuperDRI006
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../SuperDRI006.github.io
 math: false
 mermaid: true
 
 image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
+  src: /_posts/pitcurepush/%E9%A6%96%E9%A0%81%20%20Twitter.png)
   alt: 签约成功
 
 ---
