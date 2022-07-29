@@ -23,7 +23,7 @@ image:
 
 
 
-![首頁  Twitter](/../SuperDRI006.github.io/_posts/pitcurepush/%E9%A6%96%E9%A0%81%20%20Twitter.png)
+![41 Pinterest](/_posts/pitcurepush/41%20Pinterest-1659068184384.jpg)
 
 ## 等待美联储
 
